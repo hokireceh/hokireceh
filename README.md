@@ -42,10 +42,10 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <a href="https://github.com/Hokireceh"><img alt="Hokireceh's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=Zusyaku&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    src="https://activity-graph.herokuapp.com/graph?username=Hokireceh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-[website]: https://Hokireceh-id.blogspot.com
+[website]: https://mez.ink/airdrop.update
 [twitter]: https://twitter.com/hokireceh
 [youtube]: https://www.youtube.com/channel/
 [instagram]: https://instagram.com/hokireceh
