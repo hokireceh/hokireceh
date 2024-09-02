@@ -17,7 +17,7 @@
 - 💞️ I’m looking to collaborate on World And Make The World Is Better
 - ⚡ Fun fact: I Am Introvert
 - 📫 How to reach me With 
-- Email : Hokireceh@gmail.com
+- Email : hokirecehofficial@gmail.com
 - Telegram: @Hokireceh
 
 <!---
@@ -42,13 +42,13 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <a href="https://github.com/Hokireceh"><img alt="Hokireceh's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=Hokireceh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    src="https://activity-graph.herokuapp.com/graph?username=Zusyaku&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 [website]: https://Hokireceh-id.blogspot.com
-[twitter]: https://twitter.com/jokeryeager
-[youtube]: https://www.youtube.com/channel/UC0TDrPcwxesAm9zutPKgZ8Q
-[instagram]: https://instagram.com/zudhi.syakurii
+[twitter]: https://twitter.com/hokireceh
+[youtube]: https://www.youtube.com/channel/
+[instagram]: https://instagram.com/hokireceh
 [linkedin]: https://www.linkedin.com
 
 
