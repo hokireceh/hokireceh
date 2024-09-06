@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I Am Introvert
 - 📫 How to reach me With 
 - Email : hokirecehofficial@gmail.com
-- Telegram: @Hokireceh
+- Telegram: @ongkang_ongkang
 
 <!---
 Hokireceh/Hokireceh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
