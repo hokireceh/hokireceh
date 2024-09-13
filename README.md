@@ -17,7 +17,7 @@
 - 💞️ I’m looking to collaborate on World And Make The World Is Better
 - ⚡ Fun fact: I Am Introvert
 - 📫 How to reach me With 
-- Email : hokirecehofficial@gmail.com
+- Email : ads.hokireceh@gmail.com
 - Telegram: @ongkang_ongkang
 
 <!---
