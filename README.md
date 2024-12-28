@@ -22,14 +22,14 @@
 
 <h2 align="center">💻 Skills & Interests</h2>
 <p align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/zzkmCf5CeIRqDNntmo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-zzkmCf5CeIRqDNntmo">via GIPHY</a></p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Skills Icons">
 </p>
 
 ---
 
 <h2 align="center">✨ Fun Zone</h2>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6140c9e3-47af-4c55-8a5f-5571607a993b)" alt="Coding GIF" width="400">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc1ZXRrN2oydmt1NnVtZnZ4cWZ4b2pseDI0OGZnem85MXhzZ2VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzkmCf5CeIRqDNntmo/giphy.webp" alt="Coding GIF" width="400">
 </p>
 
 ---
