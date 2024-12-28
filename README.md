@@ -22,7 +22,7 @@
 
 <h2 align="center">💻 Skills & Interests</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Skills Icons">
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/zzkmCf5CeIRqDNntmo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-zzkmCf5CeIRqDNntmo">via GIPHY</a></p>
 </p>
 
 ---
