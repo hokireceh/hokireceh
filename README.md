@@ -29,7 +29,8 @@
 
 <h2 align="center">✨ Fun Zone</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif" alt="Coding GIF" width="400">
+  <img src="![unduhan](https://github.com/user-attachments/assets/6140c9e3-47af-4c55-8a5f-5571607a993b)
+" alt="Coding GIF" width="400">
 </p>
 
 ---
