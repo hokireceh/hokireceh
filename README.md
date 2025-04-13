@@ -30,7 +30,7 @@
 
 ### 🎮 Playground Time
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVvbGExb2w1bnU1cGhsZGE3M2lkODR1ZnJlaWh1Z3N5Y3lpYmlmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5kq3YKVL2W3oIMRzN8/giphy.gif" width="420" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc1ZXRrN2oydmt1NnVtZnZ4cWZ4b2pseDI0OGZnem85MXhzZ2VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzkmCf5CeIRqDNntmo/giphy.webp" width="420" />
 </p>
 
 ---
