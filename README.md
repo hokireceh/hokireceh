@@ -1,48 +1,51 @@
-<h1 align="center">👋 Hi, I'm @Hokireceh!</h1>
+<h1 align="center">⚡ Yo, I'm @Hokireceh ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Tech+enthusiast+%7C+Lifelong+learner;Making+the+world+better+every+day!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFC0&width=500&lines=Code.+Chill.+Repeat.;Let's+Build+Cool+Sh*t!;Stay+weird+and+keep+learning!" alt="Typing SVG">
 </p>
 
 ---
 
-### 👀 About Me:
-- 🔭 I’m interested in **Technology and Science**.
-- 🌱 I’m currently learning **Psychology**.
-- 💞️ I’m looking to collaborate on projects to **make the world better**.
-- ⚡ Fun fact: **I’m an introvert, but love teamwork**.  
+### 🤙 Who TF Am I?
+- 🧠 Tech head with a side of **curiosity overload**
+- 🧪 Currently vibin’ with **Psychology & Automation**
+- 💡 Believer in "**build fast, break stuff, learn faster**"
+- 🌍 Trying to make the internet a cooler place
+- 🕶️ Fun fact: **Introvert IRL, extrovert in code**
 
 ---
 
-### 📫 How to reach me:
-- **Email**: ads.hokireceh@gmail.com  
-- **Telegram**: [@ongkang_ongkang](https://t.me/ongkang_ongkang)  
+### 💌 Hit Me Up:
+- 📬 **Email**: ads.hokireceh@gmail.com  
+- 💬 **Telegram**: [@ongkang_ongkang](https://t.me/ongkang_ongkang)
 
 ---
 
-<h2 align="center">💻 Skills & Interests</h2>
+### 🧠 Skillset a.k.a My Superpowers:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Skills Icons">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,bash,html,css,git,github,vscode&theme=dark" alt="Skills">
 </p>
 
 ---
 
-<h2 align="center">✨ Fun Zone</h2>
+### 🎮 Playground Time
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc1ZXRrN2oydmt1NnVtZnZ4cWZ4b2pseDI0OGZnem85MXhzZ2VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzkmCf5CeIRqDNntmo/giphy.webp" alt="Coding GIF" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVvbGExb2w1bnU1cGhsZGE3M2lkODR1ZnJlaWh1Z3N5Y3lpYmlmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5kq3YKVL2W3oIMRzN8/giphy.gif" width="420" />
 </p>
 
 ---
 
+### 📊 My GitHub in Vibes:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hokireceh&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hokireceh&theme=radical" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hokireceh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hokireceh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hokireceh&theme=radical" alt="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hokireceh&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Keep Learning, Keep Innovating!</h3>
+<h3 align="center">🚀 Keep coding, keep slayin’.</h3>
+<p align="center">💬 DM's open, collabs welcome, bad vibes blocked 🧃</p>
