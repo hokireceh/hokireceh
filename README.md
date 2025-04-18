@@ -17,7 +17,7 @@
 
 ### 💌 Kene Yo Nek Arep Ngubungi:
 - 📬 **Email**: ads.hokireceh@gmail.com  
-- 💬 **Telegram**: [@ongkang_ongkang](https://t.me/ongkang_ongkang)
+- 💬 **Telegram**: [@HokiReceh](https://t.me/cs_hokirecehbot)
 
 ---
 
