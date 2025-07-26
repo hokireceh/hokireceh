@@ -12,7 +12,7 @@
 
 ### 🤙 Sopo Aku Rek?
 
-- 🧠 Wong tech sing kepo-né ora ono obat
+- 🧠 Wong nganggur sing kepo-né ora ono obat
 - 🧪 Lagi seneng sinau **Psikologi & Otomasi** 
 - 💡 Percoyo karo moto "**gawe cepet, rusak sek, ben iso sinau**"
 - 🌍 Pengen nggawe internet dadi papan sing luwih oke
