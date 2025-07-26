@@ -30,15 +30,11 @@
 
 ### 🎮 Lagi Ngapain Rek?
 
-
-const hokireceh = {
-    currentFocus: "Sinau otomasi sing luwih canggih 🤖",
-    exploring: "Psikologi + UX Design = Magic ✨",
-    secretProject: "Sing bakel bikin kaget (coming soon 🤫)",
-    codeWith: "☕ Kopi + 🎵 Musik",
-    dailyMotto: "Coding is art, debugging is detective work"
-};
-
+- 🔭 **Lagi fokus**: Sinau otomasi sing luwih canggih 🤖
+- 🌱 **Lagi explore**: Psikologi + UX Design = Magic ✨  
+- 💡 **Project rahasia**: Sing bakel bikin kaget (coming soon 🤫)
+- 🎵 **Ngoding karo**: ☕ Kopi + 🎵 Musik
+- 🧠 **Daily motto**: "Coding is art, debugging is detective work"
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc1ZXRrN2oydmt1NnVtZnZ4cWZ4b2pseDI0OGZnem85MXhzZ2VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzkmCf5CeIRqDNntmo/giphy.webp" width="350" />
