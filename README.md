@@ -14,18 +14,13 @@
 
 ## 🌸 Kenalan Dhisik Yuk
 
-```typescript
-const developer = {
-    jeneng: "Hokireceh",
-    panggonan: "Singapore 🇸🇬",
-    profesi: "Full Stack Developer & UX Enthusiast",
-    hobi: ["Otomasi", "Psikologi", "Desain UX", "Open Source"],
-    lagiSinau: ["TypeScript Advanced", "System Design", "Behavioral UX"],
-    prinsip: "Cepet gawe, salah yo ra popo, sing penting sinau",
-    karakteristik: "Pemalu ning urip nyata, rame ning kode",
-    bahan_bakar: "Kopi ☕ lan rasa penasaran 🔍"
-};
-```
+- 🎯 **Profesi:** Full Stack Developer & UX Enthusiast
+- 📍 **Panggonan:** Singapore 🇸🇬
+- 💜 **Hobi:** Otomasi, Psikologi, Desain UX, Open Source
+- 🌱 **Lagi Sinau:** TypeScript Advanced, System Design, Behavioral UX
+- ✨ **Prinsip:** Cepet gawe, salah yo ra popo, sing penting sinau
+- 🎭 **Karakteristik:** Pemalu ning urip nyata, rame ning kode
+- ☕ **Bahan Bakar:** Kopi lan rasa penasaran
 
 <details>
 <summary>💭 <b>Cerita luwih lengkap...</b></summary>
