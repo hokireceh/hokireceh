@@ -1,48 +1,53 @@
-# ✨ Hi there, I'm @Hokireceh ✨
+# ✨ Halo, Aku @Hokireceh ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=A78BFA&width=600&lines=Coffee+enthusiast+%E2%98%95+Code+creator+%F0%9F%92%BB;Building+things+that+spark+joy+%E2%9C%A8;Psychology+meets+automation+%F0%9F%A7%A0;Learning+in+public%2C+growing+in+private+%F0%9F%8C%B1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=A78BFA&width=650&lines=Ngopi+dulu+%E2%98%95+terus+ngoding+%F0%9F%92%BB;Gawe+hal+sing+ndadekke+seneng+%E2%9C%A8;Psikologi+ketemu+otomasi+%F0%9F%A7%A0;Sinau+bareng%2C+tumbuh+bareng+%F0%9F%8C%B1" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hokireceh&color=A78BFA&style=for-the-badge&label=Visitors" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Hokireceh?style=for-the-badge&color=A78BFA&labelColor=1e1e2e" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Hokireceh&color=A78BFA&style=for-the-badge&label=SING+MAMPIR" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Hokireceh?style=for-the-badge&color=F9A8D4&labelColor=1e1e2e&label=PENGIKUT" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-Siap%20kolaborasi-00D9FF?style=for-the-badge" alt="Status" />
 </p>
 
 ---
 
-## 🌸 About Me
+## 🌸 Kenalan Dhisik Yuk
 
 ```typescript
-const hokireceh = {
-    pronouns: "she/her",
-    location: "Singapore 🇸🇬",
-    currentFocus: ["Automation Magic", "UX Psychology", "Building in Public"],
-    philosophy: "Move fast, break things beautifully, learn gracefully",
-    vibe: "Introvert in life, extrovert in code",
-    funFact: "I debug with coffee and curiosity ☕🔍"
+const developer = {
+    jeneng: "Hokireceh",
+    panggonan: "Singapore 🇸🇬",
+    profesi: "Full Stack Developer & UX Enthusiast",
+    hobi: ["Otomasi", "Psikologi", "Desain UX", "Open Source"],
+    lagiSinau: ["TypeScript Advanced", "System Design", "Behavioral UX"],
+    prinsip: "Cepet gawe, salah yo ra popo, sing penting sinau",
+    karakteristik: "Pemalu ning urip nyata, rame ning kode",
+    bahan_bakar: "Kopi ☕ lan rasa penasaran 🔍"
 };
 ```
 
 <details>
-<summary>💭 <b>More about my journey...</b></summary>
+<summary>💭 <b>Cerita luwih lengkap...</b></summary>
 
 <br>
 
-I'm that person who finds patterns in everything—from human behavior to code architecture. Currently obsessed with:
+Aku seneng banget gawe pengalaman digital sing ora mung apik, tapi yo enak digunakke. Pendekatanku nggabungke skill teknis karo pemahaman psikologi supaya bisa gawe produk sing bener-bener pas karo sing dibutuhke wong.
 
-- 🧠 **Psychology × Tech** — Understanding why users click what they click
-- 🤖 **Smart Automation** — Because life's too short for repetitive tasks
-- ✨ **Intentional Design** — Every pixel, every interaction matters
-- 🌊 **Open Source** — Contributing to make the internet a better place
+**Sing ndadekke aku semangat:**
 
-**Philosophy:** I believe the best code is like good conversation—clear, purposeful, and leaves you feeling understood.
+- 🧠 **Psikologi × Teknologi** — Ngerti perilaku pengguna kanggo gawe interface sing intuitif
+- 🤖 **Otomasi Pinter** — Ngilangi tugas sing monoton supaya bisa fokus neng sing luwih penting
+- ✨ **Desain Bertujuan** — Saben interaksi kudu nduweni makna lan nyenengke
+- 🌍 **Open Source** — Melu nyumbang gawe web dadi papan sing luwih apik kanggo kabeh wong
+
+**Filosofiku:** Kode sing apik kui koyok obrolan sing asik—jelas, nduweni tujuan, lan ndadekke wong paham. Aku percaya yen gawe produk kui kudu nganggo empati lan terus mbenahi kanthi niat sing apik.
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Keahlian lan Piranti
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,bash,html,css,tailwind,react,nextjs,git,github,vscode,figma&theme=dark&perline=7" alt="Skills">
@@ -53,117 +58,142 @@ I'm that person who finds patterns in everything—from human behavior to code a
     <td align="center" width="140">
       <img src="https://img.shields.io/badge/Frontend-A78BFA?style=for-the-badge&logo=react&logoColor=white" />
     </td>
-    <td>JavaScript, TypeScript, React, Next.js, Tailwind CSS</td>
+    <td>JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML5, CSS3</td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Backend-F9A8D4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     </td>
-    <td>Node.js, Python, REST APIs, Automation Scripts</td>
+    <td>Node.js, Python, REST APIs, Skrip Otomasi, Bash</td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Design-C4B5FD?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Piranti-C4B5FD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     </td>
-    <td>Figma, UX Research, Interaction Design</td>
+    <td>Git, GitHub, VS Code, Figma, Command Line</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Fokus-DDD6FE?style=for-the-badge&logo=lightbulb&logoColor=white" />
+    </td>
+    <td>Riset UX, Desain Interaksi, Psikologi Pengguna, Aksesibilitas</td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Lagi Nggarap Apa
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       
-### 🔭 Active Projects
+### 🔭 Proyek Saiki
       
-- 🤖 Building smart automation tools
-- 🎨 Exploring UX/UI psychology
-- 📝 Writing about tech & growth
-- ☕ Fueling it all with good coffee
+- 🤖 Ngembangke alat otomasi sing pinter
+- 🎨 Njelajahi UX lan psikologi
+- 📝 Nulis babagan teknologi lan personal growth
+- 🌱 Gawe ning publik lan dokumentasi perjalanan
       
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       
-### 🌱 Learning & Growing
+### 🌱 Sinau lan Tumbuh
       
-- Advanced TypeScript patterns
-- System design principles  
-- Behavioral psychology in tech
-- Building products people love
+- Pola TypeScript tingkat lanjut
+- Prinsip arsitektur sistem
+- Psikologi behavioral ning desain produk
+- Gawe pengalaman sing inklusif lan accessible
       
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc1ZXRrN2oydmt1NnVtZnZ4cWZ4b2pseDI0OGZnem85MXhzZ2VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzkmCf5CeIRqDNntmo/giphy.webp" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc1ZXRrN2oydmt1NnVtZnZ4cWZ4b2pseDI0OGZnem85MXhzZ2VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzkmCf5CeIRqDNntmo/giphy.webp" width="300" alt="Ngoding" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hokireceh&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1e1e2e&title_color=A78BFA&icon_color=F9A8D4&text_color=d4d4d4&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hokireceh&layout=compact&theme=material-palenight&hide_border=true&bg_color=1e1e2e&title_color=A78BFA&text_color=d4d4d4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hokireceh&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1e1e2e&title_color=A78BFA&icon_color=F9A8D4&text_color=d4d4d4&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hokireceh&layout=compact&theme=material-palenight&hide_border=true&bg_color=1e1e2e&title_color=A78BFA&text_color=d4d4d4&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hokireceh&theme=material-palenight&hide_border=true&background=1e1e2e&stroke=A78BFA&ring=A78BFA&fire=F9A8D4&currStreakLabel=d4d4d4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hokireceh&theme=material-palenight&hide_border=true&background=1e1e2e&stroke=A78BFA&ring=F9A8D4&fire=F9A8D4&currStreakLabel=d4d4d4&sideLabels=d4d4d4" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hokireceh&theme=material-palenight&hide_border=true&bg_color=1e1e2e&color=A78BFA&line=F9A8D4&point=d4d4d4" />
-</p>
-
----
-
-## 🏆 Achievements & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hokireceh&theme=monokai&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hokireceh&theme=material-palenight&hide_border=true&bg_color=1e1e2e&color=A78BFA&line=F9A8D4&point=d4d4d4&area=true" alt="Grafik Kontribusi" />
 </p>
 
 ---
 
-## 💌 Let's Connect
+## 🏆 Pencapaian
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hokireceh&theme=monokai&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies" />
+</p>
+
+---
+
+## 💡 Proyek Unggulan
+
+<p align="center">
+  <a href="https://github.com/Hokireceh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hokireceh&repo=Hokireceh&theme=material-palenight&hide_border=true&bg_color=1e1e2e&title_color=A78BFA&icon_color=F9A8D4&text_color=d4d4d4" alt="Featured Repo" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Proyek liyane bakal muncul... Ditunggu yo! 🚀</i>
+</p>
+
+---
+
+## 💌 Ayo Nyambung
 
 <p align="center">
   <a href="mailto:ads.hokireceh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/cs_hokirecehbot">
-    <img src="https://img.shields.io/badge/Telegram-F9A8D4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-F9A8D4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/Hokireceh">
+    <img src="https://img.shields.io/badge/GitHub-DDD6FE?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <i>Open to collaborations, coffee chats, and creative projects ✨</i>
+  <img src="https://img.shields.io/badge/💬_Terbuka_kanggo-Kolaborasi-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕_Siap-Ngopi_Bareng-A78BFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✨_Minat_karo-Proyek_Kreatif-F9A8D4?style=for-the-badge" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=material-palenight&border=true&quote=Code%20is%20poetry%2C%20debugging%20is%20detective%20work&author=@Hokireceh" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=material-palenight&border=true&quote=Kode%20kui%20puisi%2C%20debugging%20kui%20kerja%20detektif.&author=@Hokireceh" alt="Quote" />
 </p>
 
 <h3 align="center">
-  💫 Keep learning, keep building, keep growing 💫
+  💫 Terus sinau, terus gawe, terus tumbuh 💫
 </h3>
 
 <p align="center">
-  <i>DMs are open for collaboration • Constructive feedback welcome • Toxic energy blocked ✌️</i>
+  <i>Ajakan kolaborasi ditampa • Kritik membangun disyukuri • Vibes positif dijaga ✨</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer&text=Matur%20nuwun%20wis%20mampir!&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Made with 💜 and lots of ☕ | Last updated: 2025</sub>
+  <sub>✨ Digawe kanthi 💜 lan akeh ☕ | Diupdate: November 2025</sub>
 </p>
