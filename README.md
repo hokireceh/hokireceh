@@ -119,29 +119,6 @@ mood     : Always caffeinated ☕
 
 ---
 
-### 〔 Streak Stats 〕
-
-<div align="center">
-
-<!-- demolab = official maintainer streak stats, paling stable -->
-<img width="70%" src="https://streak-stats.demolab.com?user=Hokireceh&theme=material-palenight&hide_border=true&stroke=A78BFA&ring=F9A8D4&fire=F9A8D4&background=1e1e2e&currStreakLabel=A78BFA&sideLabels=cdd6f4&dates=888888&currStreakNum=F9A8D4&sideNums=A78BFA&card_width=700" />
-
-</div>
-
----
-
-### 〔 Trophies 〕
-
-<div align="center">
-
-<!-- github-profile-trophy: coba beberapa theme kalau satu ga muncul -->
-<!-- theme options: radical, onedark, dracula, discord, juicyfresh, monokai -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hokireceh&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-</div>
-
----
-
 ### 〔 Hubungi Aku 〕
 
 <div align="center">
