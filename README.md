@@ -100,27 +100,32 @@ mood     : Always caffeinated ☕
 
 <div align="center">
 
-<a href="https://github.com/Hokireceh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hokireceh&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&title_color=A78BFA&icon_color=F9A8D4&bg_color=1e1e2e&text_color=cdd6f4&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Hokireceh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hokireceh&layout=compact&count_private=true&theme=material-palenight&hide_border=true&title_color=A78BFA&bg_color=1e1e2e&text_color=cdd6f4&langs_count=8&cache_seconds=1800" />
-</a>
+<!-- Row 1: Summary Cards (paling reliable, hosted di Vercel) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hokireceh&theme=material_palenight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hokireceh&theme=material_palenight" height="160" />
+
+<br/>
+
+<!-- Row 2: Productive time + Most commit language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hokireceh&theme=material_palenight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hokireceh&theme=material_palenight&utcOffset=8" height="160" />
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img width="68%" src="https://streak-stats.demolab.com?user=Hokireceh&theme=material-palenight&hide_border=true&stroke=A78BFA&ring=F9A8D4&fire=F9A8D4&background=1e1e2e&currStreakLabel=A78BFA&sideLabels=cdd6f4&dates=888888&currStreakNum=F9A8D4&sideNums=A78BFA" />
-</a>
+<!-- Row 3: Full profile summary -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hokireceh&theme=material_palenight" />
 
 </div>
 
 ---
 
-### 〔 Activity Graph 〕
+### 〔 Streak Stats 〕
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hokireceh&theme=material-palenight&hide_border=true&bg_color=1e1e2e&color=A78BFA&line=F9A8D4&point=ffffff&area=true&area_color=A78BFA&hide_title=false" />
+
+<!-- demolab = official maintainer streak stats, paling stable -->
+<img width="70%" src="https://streak-stats.demolab.com?user=Hokireceh&theme=material-palenight&hide_border=true&stroke=A78BFA&ring=F9A8D4&fire=F9A8D4&background=1e1e2e&currStreakLabel=A78BFA&sideLabels=cdd6f4&dates=888888&currStreakNum=F9A8D4&sideNums=A78BFA&card_width=700" />
+
 </div>
 
 ---
@@ -128,7 +133,11 @@ mood     : Always caffeinated ☕
 ### 〔 Trophies 〕
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hokireceh&theme=discord&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" />
+
+<!-- github-profile-trophy: coba beberapa theme kalau satu ga muncul -->
+<!-- theme options: radical, onedark, dracula, discord, juicyfresh, monokai -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hokireceh&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
 </div>
 
 ---
