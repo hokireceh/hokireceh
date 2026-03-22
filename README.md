@@ -28,7 +28,7 @@
 ```yaml
 name     : Hokireceh
 role     : Developer & Automator
-location : Singapore 🇸🇬
+location : Indonesia 🇮🇩
 mood     : Always caffeinated ☕
 ```
 
